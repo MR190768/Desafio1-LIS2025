@@ -4,7 +4,7 @@ body{
     background: radial-gradient(circle, rgba(153,47,4,1) 0%, rgba(0,1,144,1) 100%);
 }
 header {
-	background: url('../img/headerBack.jpg');
+	background: url('../img/recursos/headerBack.jpg');
 	text-align: center;
 	width: 100%;
 	height: 650px;
@@ -263,4 +263,24 @@ button:hover{
         opacity: 0;
         transform: rotate(45deg) translate(20px, 20px);
     }
+}
+footer{
+  background: url('../img/recursos/headerBack.jpg');
+	text-align: center;
+	background-size: cover;
+	background-attachment: fixed;
+  h4{
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+}
+footer .overlay{
+	width: 100%;
+	height: 100%;
+	padding: 50px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+  background-image: linear-gradient( 135deg, #0905ff69 50%, #fd25086b 100%);
+	
 }

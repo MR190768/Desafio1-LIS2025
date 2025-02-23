@@ -1,0 +1,56 @@
+[
+    {
+        "codigo": "PROD0001",
+        "nombre": "Toalla",
+        "descripcion": " Toalla de ba\u00f1o de algod\u00f3n 100% en color blanco. Suave, absorbente y de secado r\u00e1pido. Ideal para el uso diario.",
+        "categoria": "textil",
+        "precio": "5",
+        "existencias": "20",
+        "imagen": "PROD0001.png"
+    },
+    {
+        "codigo": "PROD0002",
+        "nombre": "Camisa",
+        "descripcion": " Camisa de hombre de algod\u00f3n 100% en color rojo. Corte cl\u00e1sico, cuello Kent y manga larga. Ideal para el uso diario.",
+        "categoria": "textil",
+        "precio": "15",
+        "existencias": "30",
+        "imagen": "PROD0002.png"
+    },
+    {
+        "codigo": "PROD0003",
+        "nombre": "Pantalon",
+        "descripcion": " ean de alta calidad, fabricado con denim premium y t\u00e9cnicas de confecci\u00f3n expertas. Su dise\u00f1o atemporal y su ajuste perfecto te garantizan comodidad y estilo durante a\u00f1os.",
+        "categoria": "promocional",
+        "precio": "20",
+        "existencias": "20",
+        "imagen": "PROD0003.png"
+    },
+    {
+        "codigo": "PROD0004",
+        "nombre": "Bufanda",
+        "descripcion": " Bufanda de lana suave y c\u00e1lida en color gris. Ideal para protegerte del fr\u00edo con estilo.",
+        "categoria": "textil",
+        "precio": "10",
+        "existencias": "15",
+        "imagen": "PROD0004.png"
+    },
+    {
+        "codigo": "PROD0005",
+        "nombre": "Calcetines",
+        "descripcion": " \u00a1Claro! Aqu\u00ed tienes algunas opciones para la descripci\u00f3n de producto de unos calcetines, enfoc\u00e1ndonos en diferentes aspectos:\r\n\r\nOpci\u00f3n 1: Descripci\u00f3n corta y directa\r\nCalcetines de algod\u00f3n suaves y c\u00f3modos en color negro. Ideales para el uso diario.",
+        "categoria": "promocional",
+        "precio": "2.25",
+        "existencias": "50",
+        "imagen": "PROD0005.png"
+    },
+    {
+        "codigo": "PROD0006",
+        "nombre": "Vestido",
+        "descripcion": " Vestido de mujer elegante y fluido, confeccionado en seda suave y brillante. Ideal para ocasiones especiales.",
+        "categoria": "promocional",
+        "precio": "55",
+        "existencias": "25",
+        "imagen": "PROD0006.png"
+    }
+]
